@@ -1,5 +1,3 @@
-# -
-
 ## github 看板使用指南
 
 看板地址: [https://github.com/orgs/linuxdeepin/projects/9](https://github.com/orgs/linuxdeepin/projects/9)
